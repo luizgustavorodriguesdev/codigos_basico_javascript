@@ -1,1 +1,2 @@
-Codigos Base JavaScript
+Este repositório reúne códigos basicos em JavaScript, explorando desde conceitos básicos até tópicos mais avançados como Programação Orientada a Objetos (POO), Objetos, Classes, Imutabilidade e muito mais. O objetivo é consolidar o aprendizado e servir como referência para futuras consultas e projetos.
+Sinta-se à vontade para acompanhar minha evolução e utilizar os exemplos como base para seus próprios estudos!
